@@ -210,7 +210,5 @@ npm start
 
 ---
 
-🚀 **¡Listo! Ahora puedes copiar y pegar todo este bloque en tu `README.md` y estará completamente documentado.** 😃📄
-
 
 
