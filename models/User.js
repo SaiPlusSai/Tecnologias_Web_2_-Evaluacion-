@@ -6,4 +6,4 @@ const UserSchema = new mongoose.Schema({
   ocupacion: { type: String, required: true }
 });
 
-module.exports = mongoose.model("User", UserSchema);
+module.exports = mongoose.model("User", UserSchema, "sample.usuarios");
